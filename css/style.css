@@ -7,8 +7,9 @@
     src: url(../fonts/asinastra.otf);
 }
 
-html {
-    overflow-x: hidden;
+html,
+body {
+    width: 100%;
 }
 
 body {
