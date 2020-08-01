@@ -7,10 +7,6 @@
     src: url(../fonts/asinastra.otf);
 }
 
-html,
-body {
-    width: 100%;
-}
 
 body {
     background: url(../img/bg.png);
