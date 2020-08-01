@@ -7,6 +7,9 @@
     src: url(../fonts/asinastra.otf);
 }
 
+html {
+    overflow-x: hidden;
+}
 
 body {
     background: url(../img/bg.png);
